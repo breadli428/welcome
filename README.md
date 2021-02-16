@@ -4,4 +4,4 @@ Hi everyone!
 
 Welcome to my code repository.
 
-I will show here the code of projects I conducted, including the learning materials, mainly focused on network architecture, communication and computer vision.
+I will show here the projects I conducted, including the learning materials, mainly focused on network architecture, communication and computer vision.
