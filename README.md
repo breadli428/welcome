@@ -9,3 +9,4 @@ I will show here the projects I conducted, including the learning materials, mai
 - network architecture and communication
 - computer vision
 - convolutional neural networks
+- robot operating system
